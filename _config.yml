@@ -1,0 +1,24 @@
+###########
+# site.title
+
+title:    'Planet Jekyll Starter Theme'
+subtitle: 'Another Minimalistic Static Site Quick Starter Theme'
+
+
+## note:
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+#    note: for root path use empty string e.g. '' - do NOT include trailing slash e.g. /
+
+path:  '/jekyll-starter-theme'
+url:   'http://planetjekyll.github.io/jekyll-starter-theme'
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+exclude:
+- README.md
+
