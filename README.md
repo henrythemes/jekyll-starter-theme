@@ -26,10 +26,12 @@ Becomes
     └── index.html               # index (start) sample page
 ```
 
+### Live Demo
 
 See a live demo @ [`planetjekyll.github.io/jekyll-starter-theme` »](http://planetjekyll.github.io/jekyll-starter-theme)
 
 
+### Version 2.0
 
 Note: For a more "advanced" starter theme, see the
 [Planet Jekyll Starter Theme V2](https://github.com/planetjekyll/jekyll-starter-theme-v2).
@@ -37,8 +39,13 @@ The V2 includes:
 
 - Shared (common) template/page building blocks using `_includes` e.g. `head.html`, `header.html`, `footer.html` etc.
 - CSS preprocessing using Sass/SCSS e.g. `_settings.scss` with `$link-color` etc.
-- Nav(igation) menu (auto-)built using a configuration / datafile block
+- Nav(igation) menu (auto-)built using a configuration / data block
 - And more
+
+### More Themes
+
+See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
+
 
 
 
