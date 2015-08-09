@@ -3,13 +3,42 @@
  */
 
 
+body {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+a, a:visited {
+  color: navy;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+#header {
+  padding: 4px;
+}
+
 #header .big {
-  font-size:   200%;
+  font-size:   140%;
   font-weight: bold;
 }
 
 #header .small {
-  color: grey;
+  font-size:    90%;
+  color:        grey;
+  padding-left: 15px;
 }
+
+/*
+#nav {
+padding: 6px;
+}
+*/
+
 
 
