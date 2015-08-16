@@ -47,6 +47,10 @@ The V2 includes:
 See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
 
 
+### More Quick Starter Wizard Scripts
+
+See the [Mr. Hyde's Scripts](https://github.com/mrhydescripts/scripts) library.
+
 
 
 ## Meta
