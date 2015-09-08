@@ -55,12 +55,12 @@ See the [Mr. Hyde's Scripts](https://github.com/mrhydescripts/scripts) library.
 
 ## Meta
 
-**License**
+#### License
 
 The starter theme is dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
 
-**Questions? Comments?**
+#### Questions? Comments?
 
 Post them to the [wwwmake forum](http://groups.google.com/group/wwwmake). Thanks!
 
