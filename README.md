@@ -1,4 +1,4 @@
-# Planet Jekyll Starter Theme - Minimial
+# Jekyll Starter Theme - Minimial
 
 
 A minimalistic Jekyll starter theme for "classic" web sites (e.g. just some web pages)
@@ -28,13 +28,13 @@ Becomes
 
 ### Live Demo
 
-See a live demo @ [`planetjekyll.github.io/jekyll-starter-theme` »](http://planetjekyll.github.io/jekyll-starter-theme)
+See a live demo @ [`henrythemes.github.io/jekyll-starter-theme` »](http://henrythemes.github.io/jekyll-starter-theme)
 
 
 ### Version 2.0
 
 Note: For a more "advanced" starter theme, see the
-[Planet Jekyll Starter Theme V2](https://github.com/planetjekyll/jekyll-starter-theme-v2).
+[Jekyll Starter Theme V2](https://github.com/henrythemes/jekyll-starter-theme-v2).
 The V2 includes:
 
 - Shared (common) template/page building blocks using `_includes` e.g. `head.html`, `header.html`, `footer.html` etc.
