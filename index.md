@@ -31,7 +31,7 @@ This is a list:
 
 
 Just getting started with Markdown?
-See [HTML <-> Markdown Quick Reference (Cheat Sheet)][quickref].
+See the [HTML <-> Markdown Quick Reference (Cheat Sheet)][quickref].
 
 
 [quickref]: https://github.com/mundimark/quickrefs/blob/master/HTML.md
