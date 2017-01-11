@@ -31,8 +31,7 @@ This is a list:
 
 
 Just getting started with Markdown?
-See [The Markdown Reference Book][writekit] for a
-HTML <-> Markdown Quick Reference (Cheat Sheet).
+See [HTML <-> Markdown Quick Reference (Cheat Sheet)][quickref].
 
 
-[writekit]: http://writekit.github.io
+[quickref]: https://github.com/mundimark/quickrefs/blob/master/HTML.md
