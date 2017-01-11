@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ site.path }}/css/style.css" >
+  <link rel="stylesheet" href="{{ 'css/style.css' | relative_url }}">
 </head>
 <body>
 
@@ -14,9 +14,9 @@
 </div>
 
 <div id="nav">
-  <a href="{{ site.path }}/index.html">Welcome</a> •
-  <a href="{{ site.path }}/two.html">Page Two</a> •
-  <a href="{{ site.path }}/three.html">Page Three</a> •
+  <a href="{{ 'index.html' | relative_url }}">Welcome</a> •
+  <a href="{{ 'two.html'   | relative_url }}">Page Two</a> •
+  <a href="{{ 'three.html' | relative_url }}">Page Three</a> •
   <a href="http://groups.google.com/group/wwwmake">Questions? Comments?</a> •
   <a href="https://github.com/henrythemes/jekyll-starter-theme">About</a>
 </div>
